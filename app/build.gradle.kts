@@ -42,6 +42,6 @@ dependencies {
     implementation("androidx.appcompat:appcompat:1.6.1")
     implementation("com.google.android.material:material:1.11.0")
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
-    implementation("org.torproject:tor-android:0.4.8.10")
+    implementation("org.torproject:tor-android-binary:0.4.8.10")
     implementation("org.torproject:jtorctl:0.4.5.5")
 }
